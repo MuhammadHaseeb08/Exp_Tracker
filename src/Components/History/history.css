@@ -1,0 +1,20 @@
+.minus1{
+    background-color: #c0392b;
+    /* border-radius: 2px; */
+    
+}
+.plus1{
+    background-color: #2ecc71;
+
+}
+#edit{
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid white     ;
+    color: white;
+}
+#edit:hover{
+          cursor: pointer;
+          height: 40px;
+}
